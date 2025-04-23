@@ -11,7 +11,7 @@ A simple tool to check availability of short 3-character Roblox usernames using 
 git clone https://github.com/ThePYDuck/Roblox-3-Digit-Username-Finder
 cd Roblox-3-Digit-Username-Finder
 pip install -r requirements.txt
-python Finder.py```
+python Finder.py`
 
 # Disclamer⚠️
 -I Do Not Guarantee a 100% Succes Because 3 Digit Usernames are Super Rare.
