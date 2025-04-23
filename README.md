@@ -6,7 +6,7 @@ A simple tool to check availability of short 3-character Roblox usernames using 
 - Python 3.8+
 - Required packages: `aiohttp`, `aiohttp-socks`, `fake-useragent`
 
-# Disclamer⚠️
+### Disclamer⚠️
 -I Do Not Guarantee a 100% Succes Because 3 Digit Usernames are Super Rare.
 -Using this tool may result in temporary IP bans.
 -I am not responsible for any account restrictions that may occur.
