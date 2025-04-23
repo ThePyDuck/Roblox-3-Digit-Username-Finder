@@ -7,7 +7,7 @@ A simple tool to check availability of short 3-character Roblox usernames using 
 - Required packages: `aiohttp`, `aiohttp-socks`, `fake-useragent`
 
 ## Installation
-```bash
+`bash
 git clone https://github.com/ThePYDuck/Roblox-3-Digit-Username-Finder
 cd Roblox-3-Digit-Username-Finder
 pip install -r requirements.txt
